@@ -27,6 +27,9 @@
 - 🧠 [**Reddit Superuser & Topic Analysis**](https://github.com/LesleyD808/reddit-analysis)  
   Combines NLP, sentiment analysis, and LDA topic modeling to uncover insights from Reddit data.
 
+- ⚡ [UK Energy Dashboard](https://github.com/LesleyD808/uk-energy-dashboard)  
+  Streamlit-based dashboard for UK final energy consumption visualization with anomaly detection, cost estimation, and user evaluation.  
+
 ---
 
 ## 🛠️ Skills & Tools
