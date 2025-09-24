@@ -64,3 +64,10 @@
 </p>
 
 ---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesleyD808&layout=compact&theme=default" alt="Most Used Languages" />
+</p>
+
