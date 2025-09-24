@@ -5,6 +5,15 @@
 </p>
 
 <p align="center">
+  <b>🔗 Connect with Me</b> &nbsp;
+  <a href="https://www.linkedin.com/in/xinyudai-lesley/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+
+
+<p align="center">
 💻 I'm passionate about Data Science and Web Development, with a focus on turning data into insights and building practical systems.  
 <p align="center">
 🚀 I enjoy solving real-world problems through smart, efficient, and impactful solutions.
@@ -64,12 +73,4 @@
 </p>
 
 ---
-
-## 🔗 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/xinyudai-lesley/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
